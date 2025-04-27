@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      wrd10
+HostName                       vlsi-cmp-00.egr.duke.edu
+ProcessIdentifier              700806
+ProcessCreationTime_UTC        1745772844
+ProcessCreationTime_Readable   Sun Apr 27 12:54:04 2025 EDT
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /home/wrd10/workspace/532FinalProject/DiffR2RDAC_Test/schematic/sch.oa.cdslck
+TimeEditLocked                 Sun Apr 27 14:33:44 2025 EDT
