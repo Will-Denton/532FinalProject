@@ -6,11 +6,11 @@
 LockStakeVersion               1.1
 LoginName                      wrd10
 HostName                       vlsi-cmp-00.egr.duke.edu
-ProcessIdentifier              4103192
-ProcessCreationTime_UTC        1745691415
-ProcessCreationTime_Readable   Sat Apr 26 14:16:55 2025 EDT
+ProcessIdentifier              700806
+ProcessCreationTime_UTC        1745772844
+ProcessCreationTime_Readable   Sun Apr 27 12:54:04 2025 EDT
 AppIdentifier                  OA File System Design Manager
 OSType                         unix
 ReasonForPlacingEditLock       OpenAccess edit lock
-FilePathUsedToEditLock         /home/wrd10/workspace/532FinalProject/TransmissionGate/schematic/sch.oa.cdslck
-TimeEditLocked                 Sat Apr 26 17:20:30 2025 EDT
+FilePathUsedToEditLock         /home/wrd10/workspace/532FinalProject/switch_test/schematic/sch.oa.cdslck
+TimeEditLocked                 Sun Apr 27 13:02:06 2025 EDT
